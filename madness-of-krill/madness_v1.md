@@ -9,7 +9,7 @@ start_date: 09.18.20
 
 I’d seen them since I was a child. Strange little creatures that disappeared into the shadows whenever you looked in their direction. Always there. But barely seen.
 
-They hung out just inside my peripheral vision, scrawny ittle things with beer bellies, oversized heads, a kind of green, wet, slimy but dry skin.
+They hung out just inside my peripheral vision, scrawny ittle things with beer bellies, oversized heads, a kind of green, wet, slimy skin.
 
 And they always seemed to be fighting or arguing.
 
@@ -63,7 +63,7 @@ That’s when I saw him.
 
 I realized moments later it was a man. At first, I thought it was a bundle of trash, maybe clothes. But as my eyes adjusted to the growing light of dawn, I realized it was a man.
 
-He lay just outside the dimming lighting of the street lamp. I assumed it was a tramp, sleeping off last night’s drunk.
+He lay just outside the dimming light of the street lamp. I assumed it was a tramp, sleeping off last night’s drunk.
 
 *But why was the puke green imp beckoning me towards some bum?*
 
@@ -83,7 +83,7 @@ A man in trouble. Perhaps mugged.
 
 I looked up and down the street? *But muggers? Here? Or the imps?* Either way, the man needed help.
 
-I hiked up my pants and stepped into the shadows where he lay. I put a hand on his shoulder.
+I hiked up my trousers and stepped into the shadows where he lay. I put a hand on his shoulder.
 
 “Sir, sir? Are you okay?”
 
@@ -109,9 +109,9 @@ Then he spoke again, this time a deep voice, like something from the depths of t
 
 “Help me, boy.” The accent was Indian, but not like the couple who ran the restaurant near home. It was heavy, strange, yet I had no trouble understanding the words.
 
-He panted like a dog in summer but shivered. His hand held onto the tear of my pantleg as if letting go would plunge him into a deep abyss. I glanced at the call box, then a the man, then back to the callbox. 
+He panted like a dog in summer but shivered. His hand held onto the tear of my pantleg as if letting go would plunge him into a deep abyss. I glanced at the call box, then at the man, then back to the callbox. 
 
-“The men, his men ...”
+“The men, his men ...” he whispered.
 
 “What men? Whose men? Who did this to you?”
 
@@ -200,7 +200,7 @@ This was a story straight out of the paperback novels I loved to read, when Moth
 
 He held up a hand and smiled.
 
-“Slowly, young man. You can indeed help me. It is fortuitous that you came along the road when you did and found me.”
+“Slowly, young man. You can indeed help me. Perhaps it is fortuitous that you came along the road when you did and found me.”
 
 *Fortuitous?* I thought. Or maybe my imps were trying show me this man, so I would help him. *Maybe the great warrior whats-his-name had sent his minions to guide me.*
 
@@ -470,7 +470,7 @@ He shoved a tray into my hands.
 
 “To the conservatory. Sir Godfrey’s kidney pie.”
 
-I rushed up the narrow stairs that ran at the back of the Regent’s Club. I enjoyed my job, hobnobbing with the gentry of London. Even though I was just a servant, there to serve their kidney pie, fetch their brandy or cigars, I was amongst the elite of London society. The old guard.
+I rushed up the narrow stairs that ran at the back of the Regent’s Club. I enjoyed my job, hobnobbing with the gentry of London. Even though I was just a servant, there to serve their kidney pie, fetch their brandy or cigars, I was amongst the elite of London society. The old guard. One never knew what state secrets one might overhear; fodder for true impartial journalism and my paper THE CITIZEN REPORTER!
 
 I slipped into the conservatory where Sir Godfrey sat at his usual table. He was a dapper old gent, in his late 60s. Once, he had been a great explorer, an archaeologist, but now he was chief curator at the British Museum, in charge of all the exhibits from the Near East. Years inside had turned his once golden complexion pale and pasty.
 
@@ -534,7 +534,7 @@ And I ran, trying to escape his command. But I knew it was no use.
 
 When I finally stopped running, I found myself in the old churchyard. The bright morning has surrendered to the cold, dreariness of an early winter day. Rain hung in the air but refused to fall.
 
-I leaned against a large crypt and watched the breath fog in great puffs. Despite the chill in the air, I was sweating.
+I leaned against a large crypt and watched my breath fog in great puffs. Despite the chill in the air, I was sweating.
 
 “You have met him,” came a deep voice, booming yet soft.
 
@@ -568,7 +568,7 @@ Out of the alcove at the front of the crypt stepped the Mobedan Mobed. He was dr
 
 “You must convince him. Tell him of the creatures who stalk you. He will believe you. He has seen them, as well. He knows their origins in the darkness. He will help you. Go. Before they return.”
 
-He turned and disappeared into the fog. I slumped against the crypt wall and tried to breath.
+He turned and disappeared into the fog. I slumped against the crypt wall and tried to breathe.
 
 ***
 
@@ -635,7 +635,7 @@ When I didn’t move, he shoved me and I collapsed into the soft, kid leather. I
 
 “They protect you. Keep you from dark forces that seek to corrupt your soul.”
 
-*Protect me?! But they’re your ... your ... ‘caco-things’*
+*Protect me?! But they’re your ... your ... ‘caco-things.’*
 
 “I sent them ...”
 
@@ -657,4 +657,6 @@ When I didn’t move, he shoved me and I collapsed into the soft, kid leather. I
 
 *His evil gods?*
 
-“Once they have gained purchase here, they will plunge our world into darkness and enslave humanity. 
+“Once they have gained purchase here, they will plunge our world into darkness and enslave humanity.
+
+[NOTE: not sure of what happens next ... to be continued!]
