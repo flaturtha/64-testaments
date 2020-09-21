@@ -252,7 +252,7 @@ He stroked his chin and looked at me. His eyes seemed to see deep into my soul. 
 
 “Perhaps it is fortuitous that you found me. If the evil one has sought you for so long, you must possess something he needs. It is good that you have this talisman.”
 
-He pressed the wooden coin into my hand, patted it and turned back to the window.
+He pressed the copper coin into my hand, patted it and turned back to the window.
 
 “But, uh, sir? Wait ... I don’t know what to call you?”
 
@@ -335,7 +335,7 @@ A while later, I sat in the bath Mother had drawn for me and wondered about that
 
 “Theodore. Time to get out. You don’t want to prune up.”
 
-“Yes, Mother,” I called as I sank beneath the tepid water.
+“Yes, Mother,” I called as I sank beneath the tepid water, then got out and dressed for bed.
 
 ***
 
@@ -353,7 +353,7 @@ Behind me, a rumble of clicks, like a thousand dogs, their claws clicking on a h
 
 And snickering. Strange, gutteral giggling.
 
-The imps.
+The imps!
 
 I glanced over my shoulder but found only darkness. But they were there. Just behind me, at my heel. If I stopped running, they would devour me.
 
@@ -361,7 +361,7 @@ Those sharp, shiny white teeth ... teeth like needles, would pierce my flesh and
 
 I ran.
 
-*Wait.* I remembered something. *’Take this,’ came a voice. In my hand, a woodown coin. The talisman. ‘It will protect you from them,’ said the voice. ‘It will protect you.’*
+*Wait.* I remembered something. *’Take this,’ came a voice. In my hand, a copper coin. The talisman. ‘It will protect you from the evil ones,’ said the voice. ‘It will protect you.’*
 
 I fumbled in my pocket. *Where was the coin?* I couldn’t find it. Not in that pocket. Neither in the other. *Where was the talisman?*
 
@@ -373,9 +373,9 @@ Then, I felt something. Deep in the folds of my pocket. *The coin!*
 
 I pulled it out and grinned. *Safe!*
 
-Then I stumbled. Something jarred my hand and the coin flew out of my hand. It tumbled down a fligth of stairs; I tumbled after it.
+I stumbled. Something jarred my hand and the coin flew out of my hand. It tumbled down a flight of stairs; I tumbled after it.
 
-My fingers touched it. But it bounced away. Again, I nearly grasped it but instead I crashed into the floor and slammed into a wall.
+My fingers touched it. But it bounced away. I reached out, desperate to catch the coin. Again, I touched it with my fingertips but it floated away. I crashed into the floor and slammed into a wall.
 
 Behind me, the skittering of claws on a wood floor. The giggling.
 
@@ -385,7 +385,7 @@ Hot breath. The stench of ... of cigarettes. *They smoke?* A cold, damp hand car
 
 *If only I had the talisman ... but now ...*
 
-Then the voice. It said my name.
+Then the voice. It rasped and called my name.
 
 “Theodore.”
 
@@ -395,13 +395,17 @@ Then the voice. It said my name.
 
 “Theodore, you’ll be late for work, honey. Time to get up. I have your dinner on the table. Hurry and get up before it’s cold and you’re late for work.
 
-I opened my eyes. I was in my bedroom. On the floor. Mother sat on the edge of my bed and stroked my cheek.
+I opened my eyes.
 
-“Really, Theodore. You haven’t fallen out of bed since you were a little boy.” She kissed her fingertip then booped my nose. “Come along. Your food is ready.”
+I was in my bedroom. On the floor. Mother sat on the edge of my bed and stroked my cheek.
+
+“Really, Theodore. You haven’t fallen out of bed since you were a little boy. I hope you didn’t have an accident.” She kissed her fingertip then booped my nose. “Come along. Your food is ready.”
 
 I blinked and looked around my bedroom. The sheets were twisted and pulled from the bed. The back of my neck was hot, sweaty. I glanced at my pajama bottoms. Dry. *Thank goodness!*
 
-Then it all rushed back to me. The little green imps, teasing me, beckoning me, chasing me. The man. That strange man in the orange robes. His quest to steal ... no, recover the idol so important to his faith. His urgent need to recover it before the curse could be unleashed. Before that madman, what was his name? Krill. Yes, that was it. Colonel Krill. A madman determined to destroy the Mobedan Mobed. An occultist. An evil man. The man who sent the imps to ... *to do what?*
+Then it all rushed back to me.
+
+The little green imps, teasing me, beckoning me, chasing me. The man. That strange man in the orange robes. His quest to steal ... no, recover the idol so important to his faith. His urgent need to recover it before the curse could be unleashed. Before that madman, what was his name? Krill. Yes, that was it. Colonel Krill. A madman determined to destroy the Mobedan Mobed. An occultist. An evil man. The man who sent the imps to ... *to do what?*
 
 I didn’t know. I didn’t want to know.
 
@@ -417,6 +421,240 @@ The other ... also empty.
 
 *Oh, god!* I thought, *It wasn’t just a dream. They did chase me. And I lost the talisman!*
 
-I dropped my pants on the floor and slumped on the bed, my head in my hands. Then I saw it. The small, wooden coin. It was sitting under the chair.
+I dropped my pants on the floor and slumped on the bed, my head in my hands. Then I saw it. The small copper coin. It was sitting under the chair.
 
-I reached down, picked it up, and looked at it.
+I reached down, picked it up, and looked at it. I realized I hadn’t examined it before.
+
+It was about the size of a Crown coin, slightly larger. But made of copper or brass. It was almost solid blackish green, except for the raised engraving, which was golden and contrasted with the deep, dark green. Centuries of patina and wear that polished the raised portions. 
+
+The symbol on the coin was unfamiliar to me. It appeared to be a swirl design at the center, some kind of religious symbol, I supposed. Around the edge of the coin, strange letters.
+
+I held the coin under the lamplight beside my bed and tried to make out the letters. I’d never seen anything like them. They were similar to the ornate writing on the Indian restaurant’s menu but much, much older.
+
+The back of the coin had an image of what could have been an elephant. But it seemed to be looking forward, to the right, and to the left ... all at the same time.
+
+And it was ice cold in my hand.
+
+“Definitely a talisman,” I said out loud, my voice booming in the empty bedroom.
+
+From below, Mother called to me. I stuffed my legs into my pants, slipped into my shirt, snugged up the tie and shrugged on my coat.
+
+# CHAPTER 4
+## AN OVERWHELMING DARKNESS
+
+I decided to walk to work this evening. It was pleasant out, without a hint of winter in the air. 
+
+As I strolled along, I fingered the copper coin in my pocket. It was still ice cold but somehow made me feel strong. Invicible. I might even dare to take the shortcut through the old churchyard.
+
+I was humming a tune when I heard the rustling of the leaves in the trees above me. A warm wind. A sound behind me.
+
+I turned but saw nothing. Then, movement. In the darkness near the far street corner. And a figure. Hidden in the darkness but just illuminated enough for me to see it.
+
+*The Mobedan Mobed?* I wondered.
+
+Then something darted across the light. Something small. Something quick.
+
+My stomach tightened and I reached into my pocket. The coin was gone. 
+
+*Wrong pocket!*
+
+The coin was in my other pocket. Safe. And so was I, as long as I carried it. I turned and continued on my way, but I skirted the old churchyard and breathed easier when I saw the light of the Club ahead.
+
+I darted down the side alley and into the Employee’s Entrance.
+
+***
+
+“Pyne?!” The stern voice of the kitchen manager reverberated over the din and clang of the busy kitchen. “Pyne?! Where the bloody ‘ell are you, boy?”
+
+He shoved a tray into my hands.
+
+“To the conservatory. Sir Godfrey’s kidney pie.”
+
+I rushed up the narrow stairs that ran at the back of the Regent’s Club. I enjoyed my job, hobnobbing with the gentry of London. Even though I was just a servant, there to serve their kidney pie, fetch their brandy or cigars, I was amongst the elite of London society. The old guard.
+
+I slipped into the conservatory where Sir Godfrey sat at his usual table. He was a dapper old gent, in his late 60s. Once, he had been a great explorer, an archaeologist, but now he was chief curator at the British Museum, in charge of all the exhibits from the Near East. Years inside had turned his once golden complexion pale and pasty.
+
+Sometimes, he would regal me with stories of ancient empires, dark cults that practiced human sacrifice and dark rituals.
+
+Other members scoffed at his stories of demons and dark gods rising. Of ancient battles between good and evil.
+
+“Folklore. Myth.”
+
+But Sir Godfrey told the stories as if they were gospel truth. I was never sure if he truly believed the stories he told or if he was just having fun with me.
+
+Either way, I like the old man.
+
+I slid the silver platter in front of him but he didn’t seem to notice as the steam fogged his half-moon spectacles. He was deep in conversation with another man.
+
+I glanced up to see who he was regailing this evening. And I nearly fell into Sir Godfrey’s kidney pie.
+
+Across the ornately set table, complete with silverware that weighed a pound each, silver candlesticks, and goblets of wine sat a man of uncertain age. Older. Like Sir Godfrey.
+
+The man glared at the old archaeologist and huffed. His massive walrus mustache that covered his mouth wiggled. His one good eye ... the other was covered with a large eye patch ... squinted.
+
+Sir Godfrey continued, “What you’re saying is utterly proposeterous, Krill. You cannot believe such, such utter rot!”
+
+Sir Godfrey’s dinner companion was none other than Colonel Aloysius Krill, himself.
+
+“I don’t give a ruddy damn what you think, Godfrey. I must have that relic back. I’ve discovered something and that piece is of paramount importance.”
+
+“I cannot return it, Krill!” Sir Godfrey retorted. “It goes on display on Monday, along with the rest of the Scythian artifacts. It is central to the display.”
+
+“It is centeral to my work. I must have that idol to ...”
+
+“To what?” interrupted Sir Godrey, “to complete you ritual ... “
+
+This time Col. Krill interrupted him. He held up his hand to stop the old archaeologist but looked at me. His one good eye wide and terrible.
+
+“Eavesdropping, Mr. Pyne? Be careful what you hear.”
+
+*Oh, god! He knows my name.* Then, “No, sir. I, uh, I ...”
+
+“Spit it out, Mr. Pyne.”
+
+My mouth was dry. My tonge stuck to my lips.
+
+“Will there be anything else, gentlemen?” I managed.
+
+“Then skuttle along,” came the command from beneath that massive mustache. “But mind you stay close. I will need you later.”
+
+I nodded, a half bow to the terrible man seated across from the man I liked to much. Then I fled the conservatory.
+
+***
+
+Back in the kitchen, I grabbed my overcoat and rushed out.
+
+“I will need you later.” 
+
+His words echoed in my ears. Again and again.
+
+“I will need you later. I will need you later. I will need you later.”
+
+And I ran, trying to escape his command. But I knew it was no use.
+
+When I finally stopped running, I found myself in the old churchyard. The bright morning has surrendered to the cold, dreariness of an early winter day. Rain hung in the air but refused to fall.
+
+I leaned against a large crypt and watched the breath fog in great puffs. Despite the chill in the air, I was sweating.
+
+“You have met him,” came a deep voice, booming yet soft.
+
+Out of the alcove at the front of the crypt stepped the Mobedan Mobed. He was dressed in clean robes and the wounds of this morning’s beating were gone. His face was placid, empty.
+
+“You have met him,” he said again.
+
+“Yes. He was meeting with Sir Godrey, curator of the British Museum. They were discussing some artifact Col. Krill wanted back.”
+
+“Then you see what I am up against. What evil I must confront. And why I must recover the idol before this madman can use it.”
+
+“Use it?”
+
+“He spoke of a ritual, yes?”
+
+*How did he know?*
+
+“Yes,” I stammered, “but ... “
+
+“I have seen it. In my dreams, I saw this evil man conjuring the dark ones. He will use the idol in his ritual to tear open the barrier between our realms and destroy the true gods. Only with your help, can I stop him.”
+
+“My help? How?”
+
+“Go back to your job. Speak to Sir Godfrey. Although he is in league with this madman, he does not share in the quest to destroy the true gods. He may yet help us.”
+
+“Steal, I mean, recover the idol?”
+
+“Indeed. Now, return to your job. Speak to Sir Godfrey.”
+
+“And say what? That I need the artifact? He said it’s going on display on Monday. He won’t just give it to me.”
+
+“You must convince him. Tell him of the creatures who stalk you. He will believe you. He has seen them, as well. He knows their origins in the darkness. He will help you. Go. Before they return.”
+
+He turned and disappeared into the fog. I slumped against the crypt wall and tried to breath.
+
+***
+
+The kitchen manager was once again bellowing my name but I slipped past when someone dropped a tray of dishes on the other end of the kitchen, drawing his attention.
+
+I took the servant’s stairs two at a time and skidded into the door that led to the great hallway in the Regent’s Club. I paused, opened the door a crack and peered out.
+
+Various gentlemen passed, chatting, smoking. None noticed me as I emerged from the servant’s domain and passed amongst them towards the conservatory. I was invisible, a mere fixture like the chandelier or the carpet on which they strolled, discussing matters of state or high finance.
+
+I ducked into the conservatory, straightening my serving jacket. I stepped towards Sir Godrey’s table, intent on pulling him aside and telling him about my lifelong encounters with the imps, and their evil intent.
+
+But his table was empty.
+
+I stopped halfway across the room and gawked at the table. His kidney pie was untouched, and cold. My eyes shot around the room, searching the other tables. 
+
+*He’s gone off to chat with someone else.*
+
+But no, he was nowhere in the room. I spun around and collided with a stone pillar. Great hands grabbed my arms and pushed me back. It wasn’t a stone pillar; it was Col. Krill.
+
+His great hands dug into my arms and held me fast.
+
+“Where did you get off to, Mr. Pyne? I told you to stay close because I needed you. I cannot have you running off when I need you most.”
+
+I shook. My legs quivered and I felt a surge of nausea. I wanted to vomit.
+
+“There isn’t much time, Mr. Pyne. And you have ignored my invitations. If I had not seen your destiny myself, I would have written you off as weak. But the omens do not lie.”
+
+I swallowed a brick and stared at the man’s face. It was red, blotchy. The great scar that ran from his forehead to his cheek, across the missing eye that was covered with a black patch, was bright white. His great mustache seemed alive, the whiskers like tentacles that threatened to reach out and pull me into his maw ... a meal for a madman.
+
+“I, I have an important message for Sir Godfrey.”
+
+“Sir Godfrey has returned to the museum. He cannot help you now.”
+
+With that, he turned and dragged me from the conservatory. All I could do was grip the icy cold coin in my pocket and hope its magic would protect me from this madman’s intent.
+
+# CHAPTER 5
+## A MAD REQUEST
+
+Col. Krill shoved me through the doorway of one of the smaller rooms of the Regent’s Club, one reserved for private meetings, ones more private than the hallowed halls that heard secret deals hammered out. This room was for deals behind the deal. Deals that were secret beyond secret.
+
+And so, the room was soundproof. Inside, he could torture me or consort with all manner of unholy beings to get what he wanted. And no one outside could hear my screams.
+
+I squeezed the copper coin in my pocket until my fingers ached.
+
+“Sit down, Mr. Pyne. Care for a brandy? I think you shall need one.”
+
+He pointed to one of the lush, overstuffed leather library chairs that flanked the fireplace. I stared at the flames and imagined the entrance to Hell.
+
+When I didn’t move, he shoved me and I collapsed into the soft, kid leather. It reminded me of Mother’s embrace. Only warm.
+
+“I know this comes as a bit of a shock,” he boomed as he poured two snifters of brandy at the small side bar, his back to me. I glanced at the door, gauging my chances of escape. But he turned and smiled as he offered one of the crystyal glasses.
+
+“But,” he continued, “it cannot be a complete shock. You have seen them all of your life.”
+
+*Them? Them?*
+
+“They are called the ‘cacodaimous.’” He chuckled. “A bit of a misnomer, but fitting, I suppose. You’d called them ‘imps’ or ‘hobgoblins’. Mischievious, misbehaving little buggers, but useful.”
+
+*Oh, god!*
+
+“They have watched over you since you were born.”
+
+*Watched? And waited for the command from their master to kill me?*
+
+“They protect you. Keep you from dark forces that seek to corrupt your soul.”
+
+*Protect me?! But they’re your ... your ... ‘caco-things’*
+
+“I sent them ...”
+
+*To kill me!*
+
+“... to watch over you, Theodore.”
+
+*Theodore? Only Mother calls me that!*
+
+“He will try to use you against me. To distract me from my work.”
+
+*Who will?*
+
+“He is called the Mobedan Mobed, the high priest of a dangerous cult.”
+
+*Oh, crap!*
+
+“He searches for an artifact, an idol I took from his temple many years ago. With it, he can complete his ritual and open the doorway between realms and allow his evil gods to enter.”
+
+*His evil gods?*
+
+“Once they have gained purchase here, they will plunge our world into darkness and enslave humanity. 
