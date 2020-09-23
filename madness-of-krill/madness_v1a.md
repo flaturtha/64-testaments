@@ -1091,187 +1091,35 @@ My head resting against the locked door, I started to cry. My body shook; hot te
 
 The fifth stair creaked.
 
-I tried to stop my tears and between gulps of air, I heard soft footsteps on the landing. Someone, I knew it was a person, was behind me. I had no strength left to fight. Whoever it was, whatever they were going to ask of me or do, I couldn’t stop them.
+“She is gone, boy.” The gravely voice tightened my guts and I knew that madman was there before I saw him. I turned, tears blurring my vision. But it was him ... Colonel Krill standing at the top of the stairs.
 
-Then I heard a soft voice.
+I rushed him, fists flying.
 
-“He will stop at nothing to destroy you, my young friend.”
+“You murderer!” I shouted. “Where is Mother? What have you done with her?”
 
-It was the Mobedan Mobed. I turned, my forehead still pressed against Mother’s bedroom door. Through my tear-blurred vision, I saw his orange robes first.
-
-“Why? What did I do to him?”
-
-“It is not what you did; it is what you are. I told you before how he stole my devadasi. He knows you are protected by the talisman and he cannot corrupt you as he has with her.
-
-“That is why he tried to get you to go with him. If you go willingly, he can take your talisman. But you escaped. He sent his creatures after you but when he could not get you, he took your mother. He believes that if he holds her captive, he will prevent you from helping me complete the ritual.
-
-“Do you see now why it is so important that you help me, Ted?”
-
-I slid down the door and slumped on the floor.
-
-“But, Mother ...”
-
-“If you help me complete the ritual, we can save her. But we must hurry. Every hour he gains strength. We must stop him before he becomes too strong.”
-
-“How? You said you need the idol. How are we supposed to get it?”
-
-“I gave you that piece already, but you failed to complete it.” He knelt and wiped away the tears from my cheek. “But I understand your weakness.”
-
-I stared at him. *What piece?*
-
-“The talisman?”
-
-“No, boy. Your friend at the museum. He is there. He can get us inside, to where the idol is kept. There, I can complete the ritual to stop him.”
-
-“Sir Godfrey?”
-
-“Yes, young man. He is a good man at heart. He knows you, and he knows the evil that lurks in the heart of that man. He will believe you. Come, we have not much time.”
-
-He stood, this time appearing nine feet tall, and thrust out a hand.
-
-I reached up and took it.
+My fists tried to beat on him but his powerful hands caught them and held me. I struggled but was no match for his strength. So I collapsed. And wept.
 
 ***
 
-I leaned on the bell again and waited. 
+“I sent my imps to protect her but they arrived too late. He must have sent the Roc to capture you. I believe he alreay had your mother.”
 
-Dressed in my work uniform, complete with a delivery bag bearing the Regent Club’s blazon, and straddling my bicycle, I looked the part.
+I looked up from the cup of tea he had made. It was terrible. And it was cold.
 
-The door opened and a guard peered out, shading his eyes from the bright sun over my shoulder.
+“So, now she is my mother?”
 
-“What do you want? It’s ‘alf six.”
+“I only said she wasn’t your real mother. The one who gave birth to you, Theodore.”
 
-“Special breakfast delivery for Sir Godfrey from the Regent’s Club. Seems he’s worked all night and is in desparate need of a good breakfast.”
+“Don’t call me Theodore. Only Mother calls me that.”
 
-I held up the delivery bag but the guard seemed dubius.
+I took a swig of the tea, forgetting it was cold. It made me gag and I coughed until I couldn’t breath.
 
-“I ain’t got no order to let anyone in.”
+Colonel Krill just sat across from me ... in Mother’s chair ... and glared at me.
 
-“No problem,” I chimed, giving him my best grin. “I don’t have time to trapse up to his office anyway. Off home after a night shift. Here, take the bag. In fact, I bet there’s enough for you to grab a knosh.”
+“You shouldn’t have run away from me, boy. I wasted time searching for you when I could have been protecting your mother.”
 
-He smiled and I held it out to him.
+“Why should I believe you? How do I know you’re not the one who kidnapped her? That those evil little, little things didn’t take her.”
 
-As he stepped out the door to reach for it, I dropped it. His gaze followed the bag to the ground and he never saw the heavy stick in my other hand.
+I threw the cold cup of tea at him but it clattered to his right and stained Mother’s cherry blossom wall paper. And shattered her faux bone china teacup.
 
-“I still don’t understand why you didn’t cast a spell on him, or something,” I said to the Mobedan Mobed as we stepped over the unconscious guard. But he ignored my question and I had to run to catch up with him.
 
-He didn’t speak as we moved down the hallways. He seemed to know exactly where he was going. He passed, without a glance, a hallway that opened upon a group of offices.
 
-“Isn’t,” I said, looking over my shoulder towards the office, “isn’t that where Sir Godfrey’s office would be?”
-
-Again, no reply. The Mobedan Mobed moved along, his long legs carrying him faster than I could walk. I jogged to keep up.
-
-We rounded a corner and I found myself in the main hall of the museum. Fantastic exhibits, from dinosaurs to ancient cultures, litered the floor. I paused and gawked at all the historical treasures. *What amazing stories they must hold!*
-
-The Mobedan Mobed was halfway up the grand staircase before I realized and this time I had to sprint to catch him. By the time I did, he was already slipping past the barrier into the exhibit hall marked SCYTHIANS. 
-
-Just inside, even he had to pause and let his eyes take in the sights.
-
-“Foolish English,” he said, not talking to me. “Scythian, indeed.”
-
-Then he mumbled something in a strange tongue, raising his arms towards the ceiling, or heaven, I suppose. Instinctively, I removed my cap.
-
-His prayer complete, he moved deeper into the exhibit hall, casting his eyes over display cases, searching.
-
-After passing through several aisles of display cases, he stopped. And smiled.
-
-“Angra Mainyu. Saba kesh!”
-
-His words were meaningless to me but their intent was clear. A thanksgiving for answered prayer.
-
-“How do we get it out?” I asked, peering around him at the small seated idol locked away beneath glass.
-
-From beneath his robe, he drew a dagger and turned it blade up. He smashed the hilt into the glass, shattering it. And then he reached in and picked up the small statuette.
-
-It was a man, wearing a turban and sitting cross-legged. It was copper, old like the talisman coin. Worn, dirty. And appeared to be broken off another piece. The bottom edge seemed jagged.
-
-“The first piece,” he said. Then he grabbed me and dragged me towards the center of the room. “We must begin the ritual. Give me the talisman.”
-
-I barely had the coin out of my pocket before he snatched it from my hand. With his other, he gripped my shoulder and forced me onto the floor. He pressed the coin into my forehead and began to chant.
-
-“Bah na kuth. Ranes caren.”
-
-The chant repeated, and I felt the coin start to warm. Then it got hot and started to burn. I reached for it, to tear it from my forehead before it burned through my skull but he batted away my hand.
-
-“Be still, boy!” he commanded.
-
-“But,” I started to protest.
-
-He once again drew the knife from his belt and held it to my throat.
-
-“Be quiet, boy, or I’ll slit your thoat. I only need your body. Not your life.”
-
-My mouth opened and closed several times while my brain tried to process what he said.
-
-*Kill me? He said he’d kill me!*
-
-I looked up at the priest’s face. His eyes were no longer yellow. They had turned a dirty white and his pupils were gone. He continued his chant, holding the statuette in his hands, pushing it towards the heavens.
-
-The idol started to shimmer. I couldn’t tell if it was tears blurring my vision again or if there was some kind of magic beginning.
-
-Then, a bolt of lightning and the glass skylights shattered, showering us with shards. Sparks danced across the display cases and they exploded. Artifacts scattered across the floor.
-
-The Mobedan Mobed arched his back and his chants became louder until he was screaming. His entire body shook and the idol rose off of his hands. It started to spin, ejecting a bright, white light that blinded me.
-
-I recoiled, hiding my face from the brightness and my hand brushed the coin stuck to my forehead. I stole a glance at the mad priest in the midst of his ritual. He was lost in it, ignoring me.
-
-My chance. I tugged the the coin, but it stuck fast. I dug my fingers into my flesh and pulled. Finally, the coin released and I flung it across the room. Then I gathered the rest of my strength, clambored to my feet and ran from the exhibit hall.
-
-Behind me, a scream. I turned for a moment and saw the Mobedan Mobed burst into flames. The idol spun faster, but the light faded, then extinguished.
-
-A final puff of smoke, and the swirling artifacts, the smoke and glass paused in mid air. Then it call came crashing down.
-
-When the smoke and dust settled, I poked my head back into the exhibit hall. The only thing left of the Mobedan Mobed was his dagger laying on the floor next to a scorch mark.
-
-I felt my forehead. It was burned and bleeding.
-
-I turned when I heard a voice behind me.
-
-“Dear God in Heaven! What’s going on?”
-
-It was Sir Godfrey. He stared passed me into the exhibit hall, surveying the near total destruction of the entire Scythian collection.
-
-“Ted.” He looked at me, the circular burn on my forehead, my tattered Regent’s Club uniform.
-
-“The madness of Krill. I should have known that he spoke the truth. God save him.”
-
-## CHAPTER 8
-### A LITTLE TEA
-
-Sir Godfrey took me home. Although to what, I wasn’t sure. Mother wasn’t there. I had no idea where she was.
-
-The mad priest had lied to me. I supposed that meant that Colonel Krill was right.
-
-*Oh, god!*
-
-If he was right about the Mobedan Mobed wanting to use me, that the priest had lied to me and tried to use me to complete his ritual, then maybe everything else he had told me was also true.
-
-*She is not your real mother.*
-
-Maybe she wasn’t my biological mother. But she was my real mother. Whatever else she may have done, she’d raised me. That meant something. I wished I could tell her.
-
-*But where was she? Who had taken her? If not Colonel Krill ... the Mobedan Mobed?*
-
-Sir Godfrey pulled over at the curb outside the flat. We sat in silence for a while. Then he spoke.
-
-“I cannot imagine what really happened. I only know that there are things at play that I cannot possibly understand. Nor, I imagine, can you.”
-
-“Who is he?” I asked.
-
-“Colonel Krill?” He took a breath before he said, “That’s a very good question. A madman, for sure. A dark soul, definitely.”
-
-“Is he ... evil?”
-
-“Hard to say. What is evil? What is good? For half a century, I’ve sought an answer to those questions. I still have no idea.”
-
-Outside, the rain started again, coming in a diluge.
-
-“Go on,” he said, patting my arm. “Get some sleep. We’ll speak to the police about your mother later.”
-
-I climbed out of his car and trudged up the steps but stopped at the door. It was closed. I just stared at it and let the rain soak through me.
-
-Then, the door flew open and there was Mother, in her morning frock and curlers.
-
-“Theodore Pyne! Why are you standing in the rain? You’ll catch your death. Come in. I’ve made tea.”
-
-THE END
