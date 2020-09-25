@@ -1,8 +1,9 @@
-title: THE MADNESS OF KRILL
+ 09.24.20title: THE MADNESS OF KRILL
 subtitle: A Novelette of Dark Gods & Their Duplicity
 author: M. Boris
-draft: v1
-start_date: 09.18.20
+draft: v2
+start_date: 09.25.20
+completion_date:
 
 # CHAPTER 1
 ## PERIPHERAL VISION
@@ -21,17 +22,17 @@ No one believed me, of course. Just the over-active imagination of a little boy.
 
 But they were there. Just out of sight, in the the corner of my eye. Giggling. Beckoning. Arguing.
 
-I suppose I either got used to them or forgot about what Mother called my “wild imaginings.” She said it was something to do with the chemicals in the air from the German bombings of London during the Blitz the night I was born.
+I suppose I either got used to them or forgot about what Mother called my “wild imaginings.” She said they was something to do with the chemicals in the air from the German bombings of London during the Blitz the night I was born.
 
-Then, that early mid-winter morning, just a few days after my 23rd birthday, as I cycled home from my shift as a night porter at the elegant Regent’s Club, I heard them arguing again.
+Then, that early mid-winter morning, just a few days after my 23rd birthday, as I cycled home from my shift as a night porter at the elegant Regent’s Club, I heard them arguing again. Somewhere in the darkness behind me.
 
-And then I saw them. Just on the edge of the lamplight.
+I turned, and then I saw them. Just on the edge of the lamplight.
 
 But this time, they didn’t disappear when I looked directly at them. They remained in the divide between the early morning darkness and the amber light of the street lamp.
 
 They pushed and pulled on each other, climbing on and over. Punching. Giggling. Arguing.
 
-Then, they must have realized I was watching their antics, and stopped. One, a bit more puke green than the rest, grinned at me.
+Then, they must have realized I was watching their antics, and stopped. They pointed at me and the giggles turned to outright laughter. One, a bit more puke green than the rest, grinned at me, and stepped into the light.
 
 His (I assumed a male; it was impossible to tell even though they were naked) ... his teeth were bright white, and pointed. Like little needles. I shivered when I imagined him sinking them into my flesh.
 
@@ -53,11 +54,11 @@ The gesture didn’t seem threatening. More casual. An invitation I was free to 
 
 Off in the distance, Big Ben chimed. I started, looked up then at my watch. I was late, again. Mother would not be pleased. Forgetting my strange encounter, I stuck my foot into the toe guard of my bicycle.
 
-Just then, Big Ben chimed again, its resonating *bong* shoving me over. I missed my pedal, lost my balance and my foot caught the curb; I couldn’t catch myself. 
+Just then, I heard a low moan. I missed my pedal, lost my balance and my foot caught the curb; I couldn’t catch myself. 
 
 There I was, in a heap on and empty street in the early dawn light, my bicycle on top of me.
 
-That’s when I saw him. 
+That’s when I saw him. Just down the road, at the entrance to an alleyway between the row of flats. 
 
 I realized moments later it was a man. At first, I thought it was a bundle of trash, maybe clothes. But as my eyes adjusted to the growing light of dawn, I realized it was indeed a man.
 
@@ -89,11 +90,11 @@ The only reply was a groan.
 
 “Sir? Can you hear me? Do you need help?”
 
-I touched his face, trying to turn his head towards me, towards the light. I felt something wet.
+I touched his face, trying to turn his head towards me, towards the light. I felt something wet and warm.
 
 I rolled him towards me and that’s when I saw the blood on his face. It was scratched and bruised and bleeding.
 
-The man had been beaten. Savagely.
+The man had been beaten. 
 
 I glanced up and down the street, but found it deserted. 
 
@@ -101,7 +102,7 @@ The man mumbled something but his eyes stayed closed. One seemed swollen shut. H
 
 I stood and looked up and down the street again, hoping to see a bobby. Or even a call box. Far off, through the fog, I saw one. I took a step towards it but my rear foot was held fast.
 
-I glanced down and the two yellow, bloodshot eyes stared up at me. My leg jerked, trying to escape the grasp. My stomach clenched and I swallowed hard.
+I glanced down and the two yellow, bloodshot eyes stared up at me. My leg jerked, trying to escape his grasp. My stomach clenched and I swallowed hard.
 
 Then he spoke again, this time a deep voice, like something from the depths of the earth, itself.
 
@@ -151,9 +152,9 @@ For a long minute, I knelt beside him watching him stare into nothing. Then his 
 
 ***
 
-I sat with the man in a cramped flat. It was plain, with just a small mattress on the floor and a small hot plate plugged into the wall. Dingy but immaculate.
+I sat with the man in a cramped flat. It was plain, with just a mattress on the floor and a small hot plate plugged into the wall. Dingy but immaculate.
 
-The gas heater by the greasy window dripped water but produced little if any heat. The man dabbed a cloth on his lip, cleaning away the blood. He wiped his eyes and sighed.
+The gas heater by the greasy window dripped water but produced little, if any, heat. The man dabbed a cloth on his lip, cleaning away the blood. He wiped his eyes and sighed.
 
 “I thank you, young man. You are unique among the English of this great city. Most would not have stopped to help me. Fewer would have helped me ...”
 
@@ -161,7 +162,7 @@ He glanced around the room.
 
 “... home.”
 
-“It is every Englishman’s duty, sir, to help those in need,” I said feeling obligated to stand.
+“It is every Englishman’s duty, sir, to help those in need,” I said, feeling obligated to stand.
 
 “Perhaps so, yet few would have helped a wog like me. Especially a priest. I ... my robes and tilaka ...”
 
@@ -190,11 +191,11 @@ For a moment, he held the door open. Then with a short sigh, he let it close.
 # CHAPTER 2
 ## THE IDOL OF KU’RANATH
 
-Many years ago, he told me, his temple was attacked and destroyed by a British Army Colonel. The man was acting beyond his orders to bring order to India and murdered many priests, including the temple high priest.
+Many years ago, he told me, his temple was attacked and destroyed by a British Army Colonel. The man was acting beyond his orders to bring order to India and murdered the priests while they worshiped.
 
 The madman had been corrupted by a dark sect and sought the power that the sect promised. He destroyed the temple of Ku’Ranath because the priests were representatives of the true gods and opposed this dangerous sect.
 
-Now, sixty years later, that Colonel had returned, immortal, powerful. And he sought to destroy any remaining members on the sect that opposed his rise to power.
+Now, sixty years later, that Colonel had returned --- powerful, possessing great magic, and immortal. And he sought to destroy any remaining members on the sect that opposed his rise to power.
 
 “I am the last of my sect,” he said. “And this madman seeks me out to kill me, thus ending any resistance to his taking the form of Ku’Ranath, himself, who was an ancient warrior who battled the dark gods.
 
@@ -212,19 +213,17 @@ This was a story straight out of the paperback novels I loved to read ... when M
 
 “In fact, my young friend, I believe you can be of great help to me. Alone, I cannot defeat this man. And he recently corrupted my young apprentice, my devadasi. With her, I could have performed a ritual that would bring back to life my priests, who would fight against the demons he has summoned. Perhaps you can help me in her place.”
 
-I realized he was still talking as I drifted.
-
 “I ... I ... ”
 
 “It is not dangerous, nor does it require anything of you. I will only borrow your strength to aid me in summoning the dead priests from their prison in the realm of nightmares where they were cast by this evil man’s magic. But first we must recover the sacred idol.”
 
 “The sacred ... “
 
-“It will allow me to capture, borrow, your strength to perform the ritual.”
+“It will allow me to capture --- borrow --- your strength to perform the ritual.”
 
 “Where is it?”
 
-“After the destruction of the temple, it was lost for many years. It recently was donated to the British Museum.”
+“After the destruction of the temple, it was lost for many years; I feared it would never be found. It recently was donated to the British Museum. It is vital that we recover it before he learns of its significance, if he is not already aware.”
 
 I didn’t know what to think. *Had he just said we needed to steal the idol from the British Musuem? A heist?*
 
@@ -238,7 +237,7 @@ Then an idea struck me. I shivered and jabbed my finger at him.
 
 “I have it. I have it. We --- well, you --- can summon those little fellas. I bet they could sneak into the museum and ... “
 
-I stopped jabbering when I saw the look on his face. Confusion.
+I stopped yammering when I saw the look on his face. Confusion.
 
 “You know, the little green imps. They led me to you. I wouldn’t have found you, I would’ve just cycled past.”
 
@@ -411,7 +410,7 @@ Then, I felt something. Deep in the folds of my pocket. *The coin!*
 
 I pulled it out and grinned. *Safe!*
 
-And my foot struck something. I stumbled. Something jarred my hand and the coin flew out of my grasp. It tumbled down a flight of stairs; I tumbled after it.
+My foot struck something. I stumbled, and something jarred my hand. The coin flew out of my grasp. It tumbled down a flight of stairs; I tumbled after it.
 
 My fingers touched it. But it bounced away. I reached out, desperate to catch the coin. Again, I touched it with my fingertips but it floated away. I crashed into the floor and slammed into a wall.
 
@@ -459,7 +458,9 @@ The other ... also empty.
 
 *Oh, god!* I thought, *It wasn’t just a dream. They did chase me. And I lost the talisman!*
 
-I dropped my pants on the floor and slumped on the bed, my head in my hands. Then I saw it. The small copper coin. It was sitting under the chair.
+I dropped my pants on the floor and slumped on the bed, my head in my hands. 
+
+Then I saw it. The small copper coin. It was sitting under the chair.
 
 I reached down, picked it up, and looked at it. I realized I hadn’t examined it before.
 
@@ -475,7 +476,9 @@ And it was ice cold in my hand.
 
 “Definitely a talisman,” I said out loud, my voice too loud in the empty bedroom.
 
-From below, Mother called to me. I stuffed my legs into my pants, slipped into my shirt, snugged up the tie and shrugged on my coat.
+From below, Mother called to me. I glanced at my bedside clock. She was right; I was going to be late for work ... again. I would have to try and visit the Mobedan Mobed after my night shift instead of on the way.
+
+I stuffed my legs into my pants, slipped into my shirt, snugged up the tie and shrugged on my coat.
 
 # CHAPTER 4
 ## AN OVERWHELMING DARKNESS
@@ -512,11 +515,15 @@ I rushed up the narrow stairs that ran at the back of the Regent’s Club. I enj
 
 One never knew what state secrets one might overhear; fodder for true impartial journalism and my paper THE CITIZEN REPORTER!
 
-It wasn’t much of a newspaper. Not yet. After all, I was the only reporter. Also the editor, publisher, and newsboy. And I sold few. But I knew that one day soon, I’d break a story that would have *The Evening Standard*, *The Sunday Mirror*, *The Telegraph*, even *The Times* begging to reprint my story and make me a lead reporter.
+It wasn’t much of a newspaper. Not yet. After all, I was the only reporter. Also the editor, publisher, and newsboy. And I sold few.
+
+But I knew that one day soon, I’d break a story that would have *The Evening Standard*, *The Sunday Mirror*, *The Telegraph*, even *The Times* begging to reprint my story and make me a lead reporter.
 
 I slipped into the conservatory where Sir Godfrey sat at his usual table. He was a dapper old gent, in his late 60s.
 
 Once, he had been a great explorer, an archaeologist, but now he was chief curator at the British Museum, in charge of all the exhibits from the Near East. Years inside had turned his once golden complexion pale and pasty.
+
+*Maybe I’ll write a bio piece on his adventures for the next issue!*
 
 Sometimes, he would regal me with stories of ancient empires, dark cults that practiced human sacrifice and dark rituals.
 
@@ -527,6 +534,8 @@ Other members scoffed at his stories of demons and dark gods rising. Of ancient 
 But Sir Godfrey told the stories as if they were gospel truth. I was never sure if he truly believed the stories he told or if he was just having fun with me.
 
 Either way, I liked the old man.
+
+*Yes, I’ll definitely write an article about Sir Godfrey. He’ll get a kick out of that!*
 
 I slid the silver platter in front of him but he didn’t seem to notice as the steam fogged his half-moon spectacles. He was deep in conversation with another man.
 
@@ -540,15 +549,15 @@ Sir Godfrey continued, “What you’re saying is utterly proposeterous, Krill. 
 
 Sir Godfrey’s dinner companion was none other than Colonel Aloysius Krill, himself.
 
-“I don’t give a ruddy damn what you think, Godfrey. I must have that relic back. I’ve discovered something and that piece is of paramount importance.”
+“I don’t give a ruddy damn what you think, Godfrey. I must have that relic back. Events are happening faster than I’d anticipated and I must recover that artifact before ... “
 
 “I cannot return it, Krill!” Sir Godfrey retorted. “It goes on display on Monday, along with the rest of the Scythian artifacts. It is central to the display.”
 
-“It is central to my work. I must have that idol to ...”
+Colonel Krill swore, catching the attention of others in the room. I blushed.
 
-“To what?” interrupted Sir Godrey, “to complete your ritual ... “
+“To what?” whispered Sir Godrey, casting a glance around the room, “To complete your ritual ... “
 
-This time Col. Krill interrupted him. He held up his hand to stop the old archaeologist but looked at me. His one good eye wide and terrible.
+This time Colonel Krill interrupted him. He held up his hand to stop the old archaeologist but looked at me. His one good eye wide and terrible.
 
 “Eavesdropping, Mr. Pyne? Be careful what you hear.”
 
@@ -578,7 +587,7 @@ His words echoed in my ears. Again and again.
 
 *I will need you later. I will need you later. I will need you later.*
 
-And I ran, trying to escape his command. But I knew it was no use.
+And I ran, trying to escape his command. But I knew it was no use. His terrible words followed me.
 
 When I finally stopped running, I found myself in the old churchyard. The bright morning has surrendered to the cold, dreariness of an early winter day. Rain hung in the air but refused to fall.
 
@@ -590,7 +599,7 @@ Out of the alcove at the front of the crypt stepped the Mobedan Mobed. He was dr
 
 “You have met him,” he said again.
 
-“Yes. He was meeting with Sir Godfrey, curator of the British Museum. They were discussing some artifact Col. Krill wanted back.”
+“Yes. He was meeting with Sir Godfrey, curator of the British Museum. They were discussing some artifact Colonel Krill wanted back.”
 
 “Then you see what I am up against. What evil I must confront. And why I must recover the idol before this madman can use it.”
 
@@ -606,7 +615,7 @@ Out of the alcove at the front of the crypt stepped the Mobedan Mobed. He was dr
 
 I dropped my eyes and stared at my shoes. They were muddy.
 
-“I ... I can’t help you with the ritual. I ... I’m afraid.”
+“I ... I can’t help you with the ritual. I ... will it hurt?”
 
 “The ritual is no matter, my young friend,” putting his hand on my shoulder. “We must recover the idol first. Go back to your job. Speak to Sir Godfrey. Although he is connected with this madman, he does not share in the quest to destroy the true gods. He may yet help us.”
 
@@ -622,7 +631,7 @@ He turned and disappeared into the fog. I slumped against the crypt wall and tri
 
 ***
 
-Curly was once again bellowing my name but I slipped past when someone dropped a tray of dishes on the other end of the kitchen, drawing his attention.
+As I camae back into the kitchen, Curly was once again bellowing my name. Someone dropped a tray of dishes on the other end of the kitchen, drawing his attention, and I escaped his wrath.
 
 I took the servant’s stairs two at a time and skidded into the door that led to the great hallway in the Regent’s Club. I paused, opened the door a crack and peered out.
 
@@ -648,17 +657,19 @@ Everyone in the hallway turned and looked at me.
 
 “S-sorry, everyone.” 
 
-I darted on towards Marion but she ducked down another hall. I followed.
+I darted on towards Marion but she weaved around the gents back towards the door I had just exited. I followed.
 
 “Marion. Wait. I need to talk to you.”
 
-She stopped, then turned to face me. I could tell she was pleased to see me.
+She stopped, paused, then turned to face me. I could tell she was pleased to see me.
 
 “God, Ted! What do you want?”
 
 I took her arm and tried to lead her aside to find someplace we could talk in private.
 
 “I need to talk to you.”
+
+She didn’t move.
 
 “Well, I don’t want to talk to you.”
 
@@ -692,7 +703,7 @@ Again, she turned towards the staircase.
 
 “You want my help?” she said. “Follow me.”
 
-She strode off down the side hallway and stopped beside one of the private rooms and pointed.
+She strode off down the hallway and stopped beside one of the private rooms and pointed.
 
 “What?”
 
@@ -704,9 +715,9 @@ I leaned in to give her a peck on the cheek as I passed into the private room to
 
 I ducked into the private room, straightening my serving jacket, intent on telling Sir Godfrey everything about my lifelong encounters with the imps, and their evil intent.
 
-But no, he was nowhere in the room. I spun around and collided with a stone pillar.
+But no, he was nowhere in the room. Confused, I turned around and collided with a stone pillar.
 
-Great hands grabbed my arms and pushed me back. It wasn’t a stone pillar; it was Col. Krill.
+Great hands grabbed my arms and pushed me back. It wasn’t a stone pillar; it was Colonel Krill.
 
 His great hands dug into my arms and held me fast.
 
@@ -714,18 +725,18 @@ His great hands dug into my arms and held me fast.
 
 I shook. My legs quivered and I felt a surge of nausea. I wanted to vomit.
 
-“There isn’t much time, Mr. Pyne. And you have ignored my invitations. If I had not seen your destiny myself, I would have written you off as weak. But the omens do not lie.”
+“There isn’t much time, Mr. Pyne. And you have ignored my summons. If I had not seen your destiny myself, I would have written you off as weak. But the omens do not lie.”
 
 I swallowed a brick and stared at the man’s face. It was red, blotchy. The great scar that ran from his forehead to his cheek, across the missing eye that was covered with a black patch, was bright white. His great mustache seemed alive, the whiskers like tentacles that threatened to reach out and pull me into his maw ... a meal for a madman.
 
-“I, I have an important message for Sir Godfrey.”
+“I, I have an important message for Sir Godfrey,” I said, trying to squirm past.
 
 “Sir Godfrey has returned to the museum. He cannot help you now.”
 
 With that, he shoved me back into the room. All I could do was grip the icy cold coin in my pocket and hope its magic would protect me from this madman’s intent.
 
 # CHAPTER 5
-## A MAD REQUEST
+## A MADMAN’S TALE
 
 I looked around the small, but ornately furnished room. It was designed for private meetings that required secrecy beyond what could be found in this exclusive club.
 
@@ -739,7 +750,9 @@ He gestured to one of the lush, overstuffed leather library chairs that flanked 
 
 When I didn’t move, he shoved me and I collapsed into the soft, kid leather. It reminded me of Mother’s embrace. Only warm.
 
-“I know this comes as a bit of a shock,” he boomed as he poured two snifters of brandy at the small side bar, his back to me. I glanced at the door, gauging my chances of escape. But he turned and smiled as he offered one of the crystal glasses.
+“I know this comes as a bit of a shock,” he boomed as he poured two snifters of brandy at the small side bar, his back to me.
+
+I glanced at the door, gauging my chances of escape. But he turned and smiled as he offered one of the crystal glasses.
 
 “But,” he continued, “it cannot be a complete shock. You have seen them all of your life.”
 
@@ -791,9 +804,9 @@ I managed to find my tongue and after swallowing a few times, could speak.
 
 “But, why would he ... I mean, he told me ... “
 
-“Lies, Theodore. He was the leader of the cult that worships a group of demons known as ‘the gods who are rejected.’ They were evil, beyond imagining but were defeated and banished to a place called the realm of nightmares.
+“Lies, Theodore. He was the leader of the cult that worships a group of demons known as ‘the gods who are rejected.’ They were evil, beyond imagining but were defeated thousands of years ago and banished to a place called the realm of nightmares.
 
-*Mobedan Mobed lied? I couldn’t believe it. No! This madman was lying to me now.*
+*Mobedan Mobed lied? I couldn’t believe it. No! This madman was lying to me now. Ater all, wasn’t it his creepy creatures that were following me?*
 
 “Many years ago, I defiled his temple and committed a great sacrilege against his gods. My punishment is great, including the destruction of everyone I hold dear, of my entire family.”
 
@@ -833,9 +846,9 @@ I tried to close my ears. I didn’t want to listen, to hear the lies he was try
 
 I rolled to my side and wretched. Dry, but more acrid taste in my mouth.
 
-“Another woman, who you believe to be your mother, took you as her own. No one else from the shelter made it out.”
+“Another woman, who you believe to be your mother, took you as her own. No one else from the shelter made it out. And she had now way to find your real family.”
 
-“Your real mother is my distant descendant. As are you. The last of my line. The Mobedan Mobed wants to corrupt you, to destroy you as part of my punishment for what I did.”
+“Your real mother is my distant descendant. As are you. The last of my line. The Mobedan Mobed wants to corrupt you, to destroy you as part of my punishment for what I have done.”
 
 The room swirled. I kept my eyes closed and lay on my side. My entire body ached.He went on. Telling me some story of a mission in India to quell a possible religious rebellion. Of a dark cult. Of the destruction of their temple and the death of the priests. Of the dead men rising, terrible undead creatures. Of souls ripped from the soldier’s bodies and plunged into Hell.
 
@@ -851,9 +864,11 @@ Something warm touched my lips. Wet. Sweet.
 
 My eyes fluttered open. Colonel Krill was kneeling in front of me, holding the snifter of brandy to my lips.
 
-“Drink this,” he said. “It will revive you. Then we have work to do, my boy.”
+“Drink this,” he said. “It will revive you. Then we must go to your mother. She may be in danger from this mad priest.” 
 
 I sputtered and coughed, the liquor burning my throat.
+
+*Now she is my mother?*
 
 I pushed him away. I pushed myself back, away from the madman in front of me. Away from his lies.
 
@@ -898,7 +913,7 @@ The time when she forgot me at the museum. Simply forgot to retrieve me. Or how 
 
 *Or would she?* asked a voice.
 
-In the darkness, I didn’t see the steps and nearly fell but instead crashed into a short wall with a iron railing. I dangled over it and looked into the dark water of the Thames. 
+In the darkness, I didn’t see the steps and stumbled. I crashed into a short wall with a iron railing. I dangled over it and looked into the dark water of the Thames. 
 
 That’s when I noticed the rain had stopped. I was soaked, shivering. I had to find shelter. Find a way to sort out the truth from the lies.
 
@@ -908,7 +923,7 @@ I only knew I had to keep moving. Find shelter. Find answers.
 
 Then, through the fog, I could see a dim light. It grew brighter as I approached. A street lamp.
 
-The fog continued to thin and I made out more lights. They ran across the river to my right. A bridge.
+The fog continued to thin and I made out more lights, stretching across the river to my right. A bridge.
 
 *Tower Bridge!*
 
@@ -946,7 +961,7 @@ Above me, more imps climbed the lines and cables towards the top of the bridge. 
 
 They swarmed the bridge behind me. There was no escape that way.
 
-I turned and ran for the south side of Tower Bridget. Towards the screeching bird that circled overhead.
+I turned and ran for the south side of Tower Bridge. Towards the screeching bird that circled overhead.
 
 Out of the darkness ahead of me, the faint shape of wings. And a beak. It was jagged, sharp, and black. The head, itself, was the size of a VW Beetle. Its body must’ve been as massive as a double-decker.
 
@@ -976,15 +991,15 @@ I felt a foot on the back of my head. Then it was gone. More feet pounded, tiny 
 
 I was being overrun.
 
-I dared peak and the legion of imps were pouring over me like I was nothing more than a speedbump.
+I dared peek and the legion of imps were pouring over me like I was nothing more than a speedbump.
 
-Their shrill screams and barks pummled me but their teeth and claws didn’t. Instead, they poured over me, running headlong towards the south side of the bridge.
+Their shrill screams and barks pummeled me but their teeth and claws didn’t. Instead, they poured over me, running headlong towards the south side of the bridge. Like a torrent of giant rats.
 
 Then, they were gone. Swallowed up by the fog.
 
 Above me, the giant bird circled. It screeched and beat its wings. I could hear the raging cries of the imps and they hung onto the bird with claws and teeth, tearing it apart in midair.
 
-Above me, a battle. Past me, what sounded like a swarm of ants devouring a carcass.
+Above me, a battle. Past me, the fading sound of an army of imps rushing off into the darkness. 
 
 But I was left alone. Utterly alone. I stood and look around the bridge. The fog hung, giving perhaps fifteen or twenty feet of visibility. Beyond that, only sounds.
 
@@ -994,7 +1009,7 @@ I found myself walking back towards the north side of the bridge. I didn’t kno
 
 Then something hit the ground behind me. I turned and saw an imp laying there, a few feet away. It was mangled. Dead.
 
-The dim light of the fogged in street lamps grew deeper, from a pale yellow to a deep burnt orange. Then black.
+Above me, the dim light of the fogged in street lamps grew deeper, from a pale yellow to a deep burnt orange. Then black.
 
 Something was falling. Something big.
 
@@ -1023,6 +1038,8 @@ I realized I felt nothing. Watching this carnage, the terrible deaths of these c
 No nausea. No fear. Not even pain.
 
 And I backed away. Away from the imps devouring the now dead giant vulture. I wasn’t afraid because if that bird couldn’t stop their onslaught, what chance did I have. If they chose to come after me once they were finished devouring the bird ...
+
+I did the only thing I could think of, and headed south towards home.
 
 ## CHAPTER 7
 ### MOTHER 
@@ -1075,7 +1092,7 @@ I tiptoed up the stairs, careful to avoid the fifth step that always creaked. I 
 
 I called again. “Mother?”
 
-A bang. And a whisper.
+Nothing!
 
 I rushed towards Mother’s bedroom and jiggled the handle. Locked. She always kept it locked at night. That I remember from whenever I’d had a nightmare. Mother, when asleep, was off limits.
 
@@ -1131,6 +1148,162 @@ He stood, this time appearing nine feet tall, and thrust out a hand.
 
 I reached up and took it.
 
-***
+## CHAPTER 8
+### THE MOBEDAN MOBED’S DASTERDLY PLATHE MOBEDAN MOBED’S DASTERDLY PLANN
 
+I leaned on the bell again and waited. 
 
+Dressed in my work uniform, complete with a delivery bag bearing the Regent Club’s blazon, and straddling my bicycle, I looked the part.
+
+The door opened and a guard peered out, shading his eyes from the bright sun over my shoulder.
+
+“What do you want? It’s ‘alf six.”
+
+“Special breakfast delivery for Sir Godfrey from the Regent’s Club. Seems he’s worked all night and is in desparate need of a good breakfast.”
+
+I held up the delivery bag but the guard seemed dubius.
+
+“I ain’t got no order to let anyone in.”
+
+“No problem,” I chimed, giving him my best grin. “I don’t have time to trapse up to his office anyway. Off home after a night shift. Here, take the bag. In fact, I bet there’s enough for you to grab a knosh.”
+
+He smiled and I held it out to him.
+
+As he stepped out the door to reach for it, I dropped it. His gaze followed the bag to the ground and he never saw the heavy stick in my other hand.
+
+“I still don’t understand why you didn’t cast a spell on him, or something,” I said to the Mobedan Mobed as we stepped over the unconscious guard. But he ignored my question and I had to run to catch up with him.
+
+He didn’t speak as we moved down the hallways. He seemed to know exactly where he was going. He passed, without a glance, a hallway that opened upon a group of offices.
+
+“Isn’t,” I said, looking over my shoulder towards the office, “isn’t that where Sir Godfrey’s office would be?”
+
+Again, no reply. The Mobedan Mobed moved along, his long legs carrying him faster than I could walk. I jogged to keep up.
+
+We rounded a corner and I found myself in the main hall of the museum. Fantastic exhibits, from dinosaurs to ancient cultures, litered the floor. I paused and gawked at all the historical treasures. *What amazing stories they must hold!*
+
+The Mobedan Mobed was halfway up the grand staircase before I realized and this time I had to sprint to catch him. By the time I did, he was already slipping past the barrier into the exhibit hall marked SCYTHIANS. 
+
+Just inside, even he had to pause and let his eyes take in the sights.
+
+“Foolish English,” he said, not talking to me. “Scythian, indeed.”
+
+Then he mumbled something in a strange tongue, raising his arms towards the ceiling, or heaven, I suppose. Instinctively, I removed my cap.
+
+His prayer complete, he moved deeper into the exhibit hall, casting his eyes over display cases, searching.
+
+After passing through several aisles of display cases, he stopped. And smiled.
+
+“Angra Mainyu. Saba kesh!”
+
+His words were meaningless to me but their intent was clear. A thanksgiving for answered prayer.
+
+“How do we get it out?” I asked, peering around him at the small seated idol locked away beneath glass.
+
+From beneath his robe, he drew a dagger and turned it blade up. He smashed the hilt into the glass, shattering it. And then he reached in and picked up the small statuette.
+
+Klaxons sounded.
+
+It was a man, wearing a turban and sitting cross-legged. It was copper, old like the talisman coin. Worn, dirty. And appeared to be broken off another piece. The bottom edge seemed jagged.
+
+[[REWRITE THIS SECTION ... LONGER, MORE DRAMATIC ... AND *HOW* DOES TED GET OUT OF THIS RITUAL ... ITS NOT CONVINCING!!]]
+
+“The first piece,” he said. Then he grabbed me and dragged me towards the center of the room. “We must begin the ritual. Give me the talisman.”
+
+I barely had the coin out of my pocket before he snatched it from my hand. With his other, he gripped my shoulder and forced me onto the floor. He pressed the coin into my forehead and began to chant.
+
+“Bah na kuth. Ranes caren.”
+
+The chant repeated, and I felt the coin start to warm. Then it got hot and started to burn. I reached for it, to tear it from my forehead before it burned through my skull but he batted away my hand.
+
+“Be still, boy!” he commanded.
+
+“But,” I started to protest.
+
+He once again drew the knife from his belt and held it to my throat.
+
+“Be quiet, boy, or I’ll slit your thoat. I only need your body. Not your life.”
+
+My mouth opened and closed several times while my brain tried to process what he said.
+
+*Kill me? He said he’d kill me!*
+
+I looked up at the priest’s face. His eyes were no longer yellow. They had turned a dirty white and his pupils were gone. He continued his chant, holding the statuette in his hands, pushing it towards the heavens.
+
+The idol started to shimmer. I couldn’t tell if it was tears blurring my vision again or if there was some kind of magic beginning.
+
+Then, a bolt of lightning and the glass skylights shattered, showering us with shards. Sparks danced across the display cases and they exploded. Artifacts scattered across the floor.
+
+The Mobedan Mobed arched his back and his chants became louder until he was screaming. His entire body shook and the idol rose off of his hands. It started to spin, ejecting a bright, white light that blinded me.
+
+I recoiled, hiding my face from the brightness and my hand brushed the coin stuck to my forehead. I stole a glance at the mad priest in the midst of his ritual. He was lost in it, ignoring me.
+
+My chance. I tugged the the coin, but it stuck fast. I dug my fingers into my flesh and pulled. Finally, the coin released and I flung it across the room. Then I gathered the rest of my strength, clambored to my feet and ran from the exhibit hall.
+
+Behind me, a scream. I turned for a moment and saw the Mobedan Mobed burst into flames. The idol spun faster, but the light faded, then extinguished.
+
+A final puff of smoke, and the swirling artifacts, the smoke and glass paused in mid air. Then it call came crashing down.
+
+When the smoke and dust settled, I poked my head back into the exhibit hall. The only thing left of the Mobedan Mobed was his dagger laying on the floor next to a scorch mark.
+
+I felt my forehead. It was burned and bleeding.
+
+[[END REWRITE SECTION]]
+
+I turned when I heard a voice behind me.
+
+“Dear God in Heaven! What’s going on?”
+
+It was Sir Godfrey. He stared passed me into the exhibit hall, surveying the near total destruction of the entire Scythian collection.
+
+“Ted.” He looked at me, the circular burn on my forehead, my tattered Regent’s Club uniform.
+
+“The madness of Krill. I should have known that he spoke the truth. God save him.”
+
+## CHAPTER 9
+### A LITTLE TEA
+
+Sir Godfrey took me home. Although to what, I wasn’t sure. Mother wasn’t there. I had no idea where she was.
+
+The mad priest had lied to me. I supposed that meant that Colonel Krill was right.
+
+*Oh, god!*
+
+If he was right about the Mobedan Mobed wanting to use me, that the priest had lied to me and tried to use me to complete his ritual, then maybe everything else he had told me was also true.
+
+*She is not your real mother.*
+
+Maybe she wasn’t my biological mother. But she was my real mother. Whatever else she may have done, she’d raised me. That meant something. I wished I could tell her.
+
+*But where was she? Who had taken her? If not Colonel Krill ... the Mobedan Mobed?*
+
+Sir Godfrey pulled over at the curb outside the flat. We sat in silence for a while. Then he spoke.
+
+“I cannot imagine what really happened. I only know that there are things at play that I cannot possibly understand. Nor, I imagine, can you.”
+
+“Who is he?” I asked.
+
+“Colonel Krill?” He took a breath before he said, “That’s a very good question. A madman, for sure. A dark soul, definitely.”
+
+“Is he ... evil?”
+
+“Hard to say. What is evil? What is good? For half a century, I’ve sought an answer to those questions. I still have no idea.”
+
+Outside, the rain started again, coming in a diluge.
+
+“Go on,” he said, patting my arm. “Get some sleep.”
+
+“But, Mother ... .” My voice trailed off.
+
+“Fear not, boy. She’ll turn up. I’m sure of it. Krill may be a lot of things, but he’s no murderer. And I’m certain that priest didn’t take her.”
+
+I wished I could believe him but I didn’t know what was real any more.
+
+*Was Colonel Krill really a distant relation? Or a madman bent on destroying some unknown gods? And what had the Mobedan Mobed really wanted from me?*
+
+I climbed out of his car and trudged up the steps but stopped at the door. It was closed. I just stared at it and let the rain soak through me.
+
+Then, the door flew open and there was Mother, in her morning frock and curlers.
+
+“Theodore Pyne! Why are you standing in the rain? You’ll catch your death. Come in. I’ve made tea. And there is someone to see you. A rather dapper gentleman, I must say,” she said with a twinkle as she bustled me in the door. “Come, Colonel Krill is waiting to speak to you.”
+
+THE END
