@@ -1,9 +1,9 @@
 title: THE MADNESS OF KRILL
 subtitle: A Novelette of Dark Gods & Their Duplicity
 author: M. Boris
-draft: v2
-start_date: 09.25.20
-completion_date:
+draft: v3
+start_date: 09.28.20
+completion_date: 
 
 # CHAPTER 1
 ## PERIPHERAL VISION
@@ -16,15 +16,15 @@ And they always seemed to be fighting or arguing.
 
 At least that was my constant impression, for, as I said, they disappeared as soon as I looked directly towards them.
 
-Always there. But barely seen.
+Always there. But barely seen. The only time I really saw them was in my dreams, or rather nightmares, where they seemed to pick at me, both beckoning and mocking me. 
 
 No one believed me, of course. Just the overactive imagination of a little boy.
 
 But they were there. Just out of sight, in the the corner of my eye. Giggling. Beckoning. Arguing.
 
-I suppose I either got used to them or forgot about what Mother called my “wild imaginings.” She said they was something to do with the chemicals in the air from the German bombings of London during the Blitz the night I was born.
+I suppose I either got used to them or forgot about what Mother called my “wild imaginings.” She said they was something to do with the chemicals in the air from the German bombings of London during the Blitz when I was just about four years old.
 
-Then, that early mid-winter morning, just a few days after my 23rd birthday, as I cycled home from my shift as a night porter at the elegant Regent’s Club, I heard them arguing again. Somewhere in the darkness behind me.
+Then, that early mid-winter morning, just a few days after my twenty-seventh birthday, as I cycled home from my shift as a night porter at the elegant Regent’s Club, I heard them arguing again. Somewhere in the darkness behind me.
 
 I turned, and then I saw them. Just on the edge of the lamplight.
 
@@ -42,21 +42,35 @@ I was taken back at the gesture. And at the fact that the little buggers hadn’
 
 I just stood, staring back at the puke green imp as he waggled that ‘come hither’ gesture with his finger. 
 
-When I didn’t move, he shrugged his boney shoulders and swatted at another imp that nibbled on his shoulder. He turned and melted into the darkness, giggles and arguing subsiding with him.
+Then he jerked his head to the side. Something else had caught his attention. I followed his gaze but saw nothing in the darkness.
+
+Then I heard a *huff-huff* sound. Like a dog sniffing the air, hunting its prey.
+
+The puke green imp looked back at me, then swatted at another imp that nibbled on his shoulder. He turned and melted into the darkness, giggles and arguing subsiding with him.
 
 And I was alone, straddling the top tube on my bike, staring at the pool of lamplight.
 
 I wasn’t sure what to think of my encounter with the imps. Or that they’d remained when I looked directly at them. Or that one had beckoned me to follow. 
 
-*What did he want? Where was he leading me?*
-
 The gesture didn’t seem threatening. More casual. An invitation I was free to accept, or not.
 
-Off in the distance, Big Ben chimed. I started, looked up then at my watch. I was late, again. Mother would not be pleased. Forgetting my strange encounter, I stuck my foot into the toe guard of my bicycle.
+*What did he want? Where was he leading me? What had caught his attention, drawing him and the others away?*
 
-Just then, I heard a low moan. I missed my pedal, lost my balance and my foot caught the curb; I couldn’t catch myself. 
+Then I heard a terrible scream. It struck deep into my gut, like a sharp knife, and sent a cold shiver down my spine.
 
-There I was, in a heap on and empty street in the early dawn light, my bicycle on top of me.
+The scream was answered by howls, a great dog calling its pack. In the darkness where the imps had disappeared, I heard the giggles turn to snarls, the soft clicking of their nails on the pavement, and the echoing clambor of two angry creatures fighting.
+
+The nightmares of my childhood come to life.
+
+Off in the distance, Big Ben chimed; its *bong, bong* snapping me out of my fugue. I blinked and looked around. I was in utter silence. 
+
+*Was it all in my imagination? Had I seen the imps, heard the sound of some great pack of dogs?*
+
+I didn’t know. Big Ben *bong*ed again and I looked at my watch. I was late, again. Mother would not be pleased. Forgetting my strange encounter, I stuck my foot into the toe guard of my bicycle.
+
+Just then, I heard a low moan. Jerking my head up towards the sound, I missed my pedal, lost my balance and my foot caught the curb; I couldn’t catch myself. 
+
+I crashed in a heap on the empty street, my bicyle on top of me.
 
 That’s when I saw him. Just down the road, at the entrance to an alleyway between the row of flats. 
 
@@ -68,7 +82,7 @@ He lay just outside the dimming light of the street lamp. I assumed it was a tra
 
 I shoved my fallen bike off my leg and tried to stand up, but my pant leg was caught in the oily chain. My pants ripped when I tugged. That would upset Mother.
 
-I brushed myself off as best as I could, sighed when I looked at my watch, and leaned the bike against the wall, then took a step towards the man. Then I took a step back.
+I brushed myself off as best as I could, sighed when I looked at my watch, and leaned the bike against the wall and took a step towards the man. Then I took a step back.
 
 The light was getting better and I could make out his features from where I stood.
 
@@ -203,9 +217,9 @@ Now, sixty years later, that Colonel had returned --- powerful, possessing great
 
 “It is my duty to stop him. But he has become powerful in the many years since he destroyed my temple and murdered my priests.”
 
-This was a story straight out of the paperback novels I loved to read ... when Mother wasn’t around, anyway! A man on a quest to save a precious artifact. My feet and hands tingled.
+This was a story straight out of the paperback novels I loved to read ... when Mother wasn’t around, anyway! And it was the perfect story for my newspaper ... *a man on a quest to save a precious artifact from the Imperialistic forces that threatened his own culture!* My feet and hands tingled.
 
-“How can I help? I can’t imagine what I could do but ...”
+“How can I help? I could write a story ... “
 
 “Slowly, young man. You can indeed help me,” he said, a smile twitching at the edges of his mouth. “Perhaps it is fortuitous that you came along the road when you did and found me.”
 
@@ -389,7 +403,6 @@ I ran.
 In my hand, a copper coin. The talisman.
 
 *‘It will protect you from the evil ones,’ said the voice. ‘It will protect you.’*
-
 I fumbled in my pocket.
 
 *Where was the coin?*
@@ -436,6 +449,8 @@ I opened my eyes.
 
 I was in my bedroom. On the floor. Mother sat on the edge of my bed and stroked my cheek.
 
+Another nightmare.
+
 “Really, Theodore. You haven’t fallen out of bed since you were a little boy. I hope you didn’t have an accident.” She kissed her fingertip then booped my nose. “Come along. Your food is ready.”
 
 I blinked and looked around my bedroom. The sheets were twisted and pulled from the bed. The back of my neck was hot, sweaty. I glanced at my pajama bottoms. Dry. *Thank goodness!*
@@ -478,16 +493,22 @@ And it was ice cold in my hand.
 
 From below, Mother called to me. I glanced at my bedside clock. She was right; I was going to be late for work ... again. I would have to try and visit the Mobedan Mobed after my night shift instead of on the way.
 
-I stuffed my legs into my pants, slipped into my shirt, snugged up the tie and shrugged on my coat.
+I stuffed my legs into my pants, slipped into my shirt, shoved a clean hanky into my pocket, snugged up the tie and shrugged on my coat.
 
 # CHAPTER 4
 ## AN OVERWHELMING DARKNESS
 
-I decided to walk to work this evening. It was pleasant out, without a hint of winter in the air. 
+I decided to walk to work this evening. It was pleasant out, without a hint of winter in the air.
+
+I thought about my story for THE CITIZEN REPORTER. After months of very little readership or attention from the big newspapers, this could be my break. *If the government were involved with destroying cultural and religious artifacts ...*
+
+It wasn’t much of a newspaper. Not yet. After all, I was the only reporter. Also the editor, publisher, and newsboy. And I sold few.
+
+But I knew that one day soon, I’d break a story that would have *The Evening Standard*, *The Sunday Mirror*, *The Telegraph*, even *The Times* begging to reprint my story and make me a lead reporter.
 
 As I strolled along, I fingered the copper coin in my pocket. It was still ice cold but somehow made me feel strong. Invicible. I might even dare to take the shortcut through the old churchyard.
 
-I was humming a tune when I heard the rustling of the leaves in the trees above me. A warm wind. A sound behind me.
+I was humming a tune, letting the story develop in my mind, when I heard the rustling of the leaves in the trees above me. A warm wind. A sound behind me.
 
 I turned but saw nothing. Then, movement. In the darkness near the far street corner. And a figure. Hidden in the darkness but just illuminated enough for me to see it.
 
@@ -513,19 +534,15 @@ He shoved a tray into my hands.
 
 I rushed up the narrow stairs that ran at the back of the Regent’s Club. I enjoyed my job, hobnobbing with the gentry of London. Even though I was just a servant, there to serve their steak and kidney pie, fetch their brandy or cigars, I was amongst the elite of London society. The old guard.
 
-One never knew what state secrets one might overhear; fodder for true impartial journalism and my paper THE CITIZEN REPORTER!
+One never knew what state secrets one might overhear; fodder for true impartial journalism and my paper THE CITIZEN REPORTER! Like details of this conspiracy by the Imperialists, desparately trying to hand on to the last bits of a dying empire.
 
-It wasn’t much of a newspaper. Not yet. After all, I was the only reporter. Also the editor, publisher, and newsboy. And I sold few.
-
-But I knew that one day soon, I’d break a story that would have *The Evening Standard*, *The Sunday Mirror*, *The Telegraph*, even *The Times* begging to reprint my story and make me a lead reporter.
-
-I slipped into the conservatory where Sir Godfrey sat at his usual table. He was a dapper old gent, in his late 60s.
+Grinning to myself, I slipped into the conservatory where Sir Godfrey sat at his usual table. He was a dapper old gent, in his late 60s.
 
 Once, he had been a great explorer, an archaeologist, but now he was chief curator at the British Museum, in charge of all the exhibits from the Near East. Years inside had turned his once golden complexion pale and pasty.
 
-*Maybe I’ll write a bio piece on his adventures for the next issue!*
-
 Sometimes, he would regal me with stories of ancient empires, dark cults that practiced human sacrifice and dark rituals.
+
+*Of course!* I thought as I strolled across the room. *Sir Godfrey would be a perfect interview for this article.*
 
 Other members scoffed at his stories of demons and dark gods rising. Of ancient battles between good and evil.
 
@@ -534,8 +551,6 @@ Other members scoffed at his stories of demons and dark gods rising. Of ancient 
 But Sir Godfrey told the stories as if they were gospel truth. I was never sure if he truly believed the stories he told or if he was just having fun with me.
 
 Either way, I liked the old man.
-
-*Yes, I’ll definitely write an article about Sir Godfrey. He’ll get a kick out of that!*
 
 I slid the silver platter in front of him but he didn’t seem to notice as the steam fogged his half-moon spectacles. He was deep in conversation with another man.
 
@@ -551,11 +566,13 @@ Sir Godfrey’s dinner companion was none other than Colonel Aloysius Krill, him
 
 “I don’t give a ruddy damn what you think, Godfrey. I must have that relic back. Events are happening faster than I’d anticipated and I must recover that artifact before ... “
 
-“I cannot return it, Krill!” Sir Godfrey retorted. “It goes on display on Monday, along with the rest of the Scythian artifacts. It is central to the display.”
+Sir Godrey scoffed. “Your ideas of demons and dark gods are even more far fetched than my silly stories. At least I know they’re merely myth. You’re actually mad enough be believe it!”
 
 Colonel Krill swore, catching the attention of others in the room. I blushed.
 
-“To what?” whispered Sir Godrey, casting a glance around the room, “To complete your ritual ... “
+“Dammit, man!” Krill bellowed. Then, lowering his voice to a bare whisper, “I need that idol.”
+
+“To do what?” whispered Sir Godrey, casting a glance around the room, “To complete your ritual ... “
 
 This time Colonel Krill interrupted him. He held up his hand to stop the old archaeologist but looked at me. His one good eye wide and terrible.
 
@@ -600,6 +617,10 @@ Out of the alcove at the front of the crypt stepped the Mobedan Mobed. He was dr
 “You have met him,” he said again.
 
 “Yes. He was meeting with Sir Godfrey, curator of the British Museum. They were discussing some artifact Colonel Krill wanted back.”
+
+“An artifact?” asked the Mobedan Mobed. “What kind of artifact?”
+
+“I dunno. An idol that the Colonel had given to Sir Godfrey but wants back so the can ... “
 
 “Then you see what I am up against. What evil I must confront. And why I must recover the idol before this madman can use it.”
 
@@ -808,6 +829,18 @@ I managed to find my tongue and after swallowing a few times, could speak.
 
 *Mobedan Mobed lied? I couldn’t believe it. No! This madman was lying to me now. Ater all, wasn’t it his creepy creatures that were following me?*
 
+“He needs an innocent, he needs you, Theodore, to complete his ritual and awaken the final god.”
+
+I sat up and tried to sound tough.
+
+“If he wanted to corrupt me, as you say, if he wanted to force me to do his bidding, then why didn’t he just use his magic to force me?”
+
+“He cannot force you. He must get you to accept his offer willingly or he cannot complete the ritual.”
+
+“But ... why me?”
+
+He sighed, and sunk back into the thick, leather chair.
+
 “Many years ago, I defiled his temple and committed a great sacrilege against his gods. My punishment is great, including the destruction of everyone I hold dear, of my entire family.”
 
 “What does that have to do with me?” I had to test him.
@@ -842,11 +875,11 @@ I opened my eyes and saw his great mustache, and that weepy eye. I shuddered and
 
 I tried to close my ears. I didn’t want to listen, to hear the lies he was trying to tell me.
 
-“Your real mother died in the Blitz just after you were born. The shelter she found herself in when you arrived didn’t have the medical supplies to help her. She died giving birth.”
+“Your real mother died in the Blitz when you were just a wee lad. In fact, everyone in the shelter was killed except for you and a woman.”
 
 I rolled to my side and wretched. Dry, but more acrid taste in my mouth.
 
-“Another woman, who you believe to be your mother, took you as her own. No one else from the shelter made it out. And she had now way to find your real family.”
+“That other woman, who you believe to be your mother, took you as her own. Because noone else from the shelter made it out, she had no way to find your real family.”
 
 “Your real mother is my distant descendant. As are you. The last of my line. The Mobedan Mobed wants to corrupt you, to destroy you as part of my punishment for what I have done.”
 
@@ -1149,7 +1182,7 @@ He stood, this time appearing nine feet tall, and thrust out a hand.
 I reached up and took it.
 
 ## CHAPTER 8
-### THE MOBEDAN MOBED’S DASTERDLY PLATHE MOBEDAN MOBED’S DASTERDLY PLANN
+### THE RITUAL  
 
 I leaned on the bell again and waited. 
 
@@ -1187,7 +1220,7 @@ Just inside, even he had to pause and let his eyes take in the sights.
 
 “Foolish English,” he said, not talking to me. “Scythian, indeed.”
 
-Then he mumbled something in a strange tongue, raising his arms towards the ceiling, or heaven, I suppose. Instinctively, I removed my cap.
+Then he mumbled something in a strange tongue, raising his arms towards the ceiling, or heaven, I suppose. Without thinking, I removed my cap.
 
 His prayer complete, he moved deeper into the exhibit hall, casting his eyes over display cases, searching.
 
@@ -1201,63 +1234,159 @@ His words were meaningless to me but their intent was clear. A thanksgiving for 
 
 From beneath his robe, he drew a dagger and turned it blade up. He smashed the hilt into the glass, shattering it. And then he reached in and picked up the small statuette.
 
+It was a man, wearing a turban and sitting cross-legged. It was copper, old like the talisman coin. Worn, dirty. And appeared to be broken off another piece. The bottom edge seemed jagged, as if a portion of the full statuette had been broken off.
+
 Klaxons sounded.
 
-It was a man, wearing a turban and sitting cross-legged. It was copper, old like the talisman coin. Worn, dirty. And appeared to be broken off another piece. The bottom edge seemed jagged.
+“Are you mad?” I screamed above the crashing sounds of the alarms, white lights flashing around the room. “The guards will find us. We have to leave.”
 
-[[REWRITE THIS SECTION ... LONGER, MORE DRAMATIC ... AND *HOW* DOES TED GET OUT OF THIS RITUAL ... ITS NOT CONVINCING!!]]
+The Mobedan Mobed didn’t move. He just examined the statuette. He stroked the jagged edge, dismayed perhaps that it was incomplete.
 
-“The first piece,” he said. Then he grabbed me and dragged me towards the center of the room. “We must begin the ritual. Give me the talisman.”
+“It is no matter,” he said, his voice toneless and soft.
 
-I barely had the coin out of my pocket before he snatched it from my hand. With his other, he gripped my shoulder and forced me onto the floor. He pressed the coin into my forehead and began to chant.
+I grabbed his sleeve and tried to pull him towards the exit but he batted away my hand.
 
-“Bah na kuth. Ranes caren.”
+“We have to go.” I said again.
 
-The chant repeated, and I felt the coin start to warm. Then it got hot and started to burn. I reached for it, to tear it from my forehead before it burned through my skull but he batted away my hand.
+He looked up at me and smiled. Then stepped into a clear area of the exhibit floor where he sat, cross legged. He placed the broken idol in front of him. He motioned for me to sit opposite.
 
-“Be still, boy!” he commanded.
+“We ... the guards ... “ I pointed at him; I pointed at the entrance.
 
-“But,” I started to protest.
+“They must come. He will come. Sit. Begin the ritual with me and we can vanquish this evil man once and for all.”
 
-He once again drew the knife from his belt and held it to my throat.
+I hesitated and glanced at the entrance to the main hall. Through the hallowed halls of this great museum, and through the blare of the klaxons, I imagined a company of armed men, guards or police, converging on us. I wanted to flee.
 
-“Be quiet, boy, or I’ll slit your thoat. I only need your body. Not your life.”
+And yet, the Mobedan Mobed sat and only nodded for me to join him. When I hesitated, he closed his eyes, tilted back his head, and raised his arms.
 
-My mouth opened and closed several times while my brain tried to process what he said.
+I heard a murmur, a rumble like far off thunder. Then his voice rose, chanting.
 
-*Kill me? He said he’d kill me!*
+Again, I glanced at the entrance, expecting to see the guards rushing in. But instead, there was a single man.
 
-I looked up at the priest’s face. His eyes were no longer yellow. They had turned a dirty white and his pupils were gone. He continued his chant, holding the statuette in his hands, pushing it towards the heavens.
+“Colonel Krill.”
 
-The idol started to shimmer. I couldn’t tell if it was tears blurring my vision again or if there was some kind of magic beginning.
+He stepped into the Scythian Exhibit hall and strode towards where the Mobedan Mobed sat.
 
-Then, a bolt of lightning and the glass skylights shattered, showering us with shards. Sparks danced across the display cases and they exploded. Artifacts scattered across the floor.
+*No, he can’t stop the ritual,* I thought, and rushed toward him, determined to stop him from interrupting the priest’s chant.
 
-The Mobedan Mobed arched his back and his chants became louder until he was screaming. His entire body shook and the idol rose off of his hands. It started to spin, ejecting a bright, white light that blinded me.
+But Krill caught me with his left hand and shoved me to the side.
 
-I recoiled, hiding my face from the brightness and my hand brushed the coin stuck to my forehead. I stole a glance at the mad priest in the midst of his ritual. He was lost in it, ignoring me.
+“Get out, boy,” he said. “Get out before he completes the chant.”
 
-My chance. I tugged the the coin, but it stuck fast. I dug my fingers into my flesh and pulled. Finally, the coin released and I flung it across the room. Then I gathered the rest of my strength, clambored to my feet and ran from the exhibit hall.
+As if taking a que, the Mobedan Mobed stopped. His voice fell silent. His eyes opened and he smiled.
 
-Behind me, a scream. I turned for a moment and saw the Mobedan Mobed burst into flames. The idol spun faster, but the light faded, then extinguished.
+“Ah, my old friend. You have come. I knew you would come to the boy’s rescue. It was inevitable.”
 
-A final puff of smoke, and the swirling artifacts, the smoke and glass paused in mid air. Then it call came crashing down.
+Colonel Krill glanced at me, then back to the man seated before him. Then at the idol.
 
-When the smoke and dust settled, I poked my head back into the exhibit hall. The only thing left of the Mobedan Mobed was his dagger laying on the floor next to a scorch mark.
+“The idol,” he said. “How ... “
 
-I felt my forehead. It was burned and bleeding.
+“The boy had more than one purpose,” replied the Mobedan Mobed. “He helped me find the idol of Ku’Ranath and gain access to it here. But I am finished with him now.”
 
-[[END REWRITE SECTION]]
+He waved his hand in my direction and my arms and legs went numb. A wave of nausea crashed into me and saw the room swirl around me. I slumped against the display case behind me as Colonel Krill stepped towards me. 
 
-I turned when I heard a voice behind me.
+“You cannot save him, you English fool. You cannot save yourself. I summoned you and you have come, of your own free will.”
+
+The Colonel stopped midstep. His back stiffened. For a moment, he was frozen; then he let out a string of curses. He turned and lunged at the seated priest but was stopped short as the Mobedan Mobed raised a hand.
+
+“And now,” he said, almost a whisper. “You are in my power and shall complete your task. You shall usher in the gods who shall reap their revenge upon those who rejected them, upon all humanity for their sins.”
+
+In front of him, the idol shimmered and started to emit a glow. At first, it was soft, almost angelic. Then, as the idol started to shake and the Mobedan Mobed began once again to chant, the glow turned to a white-hot beam that shot forth in every direction.
+
+Colonel Krill shuddered and his head twitched. Sweat beaded on his forhead as he struggled to gain control of his own body. Froth formed on his lips, the only curse he could utte. Whatever spell the Mobedan Mobed had over him held him in an iron grip.
+
+As the numbness in my arms and legs abated, I pulled myself away from the swirl of light and the priest’s chants.
+
+Colonel Krill was fixed, trapped in the growing glow from the idol. Around him, around the Mobedan Mobed, bits of broken glass and small artifacts from atop the various display cases began to swirl. 
+
+I watched, my body cold, as Krill was forced to his knees by an unseen hand. Then the idol stopped spinning, hovering in midair. It swiveled and the turbaned man seemed to come alive, looking straight at the Colonel, prostrate before it.
+
+The blue light shot out of the idols eyes, striking Colonel Krill. He contorted, his back arching and even the force that held him couldn’t keep his scream from escaping.
+
+The sound of the man, ripped in half by some dark magic force, shattered my eardrums and shoved me further back.
+
+*Oh, god! What did I do?*
+
+I watched as he tore at his own chest, ripping buttons from his jacket, shreading his shirt until his chest was bare.
+
+*If only I’d listened ...*
+
+Hot tears poured down my cheeks and I felt sick. But whatever I felt was nothing compared to the torture of Colonel Krill just feet away from me.
+
+His body contorted, twisted. He screamed and clawed at his own chest. The blue light eveloped him, wrapping him in a coccoon. Around him, artifacts, dust, shards of glass swirled. 
+
+As it pulled him up, holding him a few feet above the ground, his screams and curses drowned out the klaxon.
+
+Then, silence.
+
+Everything stopped.
+
+Colonel Krill fell to his knees.
+
+Then to his hands.
+
+I realized I had forgotten to breath when a cool breeze from the entrance caressed my cheek. I glanced at the entrance, then back to the man prostrate in front of me. And the priest, still held in rapture and mumbling a chant. 
+
+The Colonel rocked back on his heels, crouched before the Mobedan Mobed, who now, stirring for the first time, rose to his feet. He took a long stride towards Colonel Krill and, taking the idol in both of his hands, held it out to Colonel Krill.
+
+In the silence, I felt a sharp pain in my hand. A shard of glass dug into my palm; I was bleeding. With my other hand, I dug into my pocket for my hanky.
+
+I felt something cold. Ice cold.
+
+*The talisman!*
+
+I pulled it from my pocket, and forgetting the shard of glass in my other palm, turned it over in my hands.
+
+*’It will protect you from the dark magic,’* said the voice of the Mobedan Mobed in my mind.
+
+*Maybe,* I surmized, *it can protect Colonel Krill ...*
+
+I looked up when I heard the Colonel’s voice. I couldn’t understand the words; they were in the ancient tongue of the priest’s chant. As he spoke the strange words, he raised his hands to take the idol from the priest. The strange blue light grew brighter.
+
+Then, he screamed again, throwing his head back. From his chest, a new light, the same soft blue, erupted from his chest. But no mere light, it was a head ... the screaming head of something too horrible to imagine. 
+
+A creature, made of pure light and fire, ripped through his chest, reaching out towards the idol like a great beast lunging to swallow its prey.
+
+I threw the coin.
+
+With all my meager strength, I threw the coin at the idol, at the gaping maw of the thing that erupted from Colonel Krill’s chest.
+
+It missed and fell to the floor. *Damn!*
+
+But it was enough to distract the Mobedan Mobed for just a moment and in that moment, when his concentration waned, Colonel Krill mustered one last curse. He lashed out and knocked the idol from the priest’s hands.
+
+It tumbled towards the ground. The creature, its maw still poised to swallow the idol, clamped down on empty air. Then, it screamed and contorted.
+
+The Mobedan Mobed tried to grab the falling idol but the blue light creature sunk its fangs into his arm. It was his turn to scream.
+
+The blue light engulf him and swirled. The color changed from the angelic blue to a dark blue, like blood in a vein. Then in a flash, turned crimson red. 
+
+The Mobedan Mobed staggered backwards, his arms flaying as if trying to shake off the beast. The crimson red light turned to flames and the priest was caught in a tornado of fire. The flames started at his feet, and wrapping around him, flowed upwards until it covered his entire body. Only his head was free.
+
+He glared at me and at the Colonel, collapsed on the floor. Then the flames melted the flesh from his skull and, with a flash of pure white light, extinguished themselves, leaving only a pillar of smoke.
+
+The Mobedan Mobed was gone.
 
 “Dear God in Heaven! What’s going on?”
+
+I turned when I heard a voice behind me.
 
 It was Sir Godfrey. He stared passed me into the exhibit hall, surveying the near total destruction of the entire Scythian collection.
 
 “Ted.” He looked at me, the circular burn on my forehead, my tattered Regent’s Club uniform.
 
-“The madness of Krill. I should have known that he spoke the truth. God save him.”
+I tried to stand but my legs refused to hold me. I reached out and took his hand and pulled myself up.
+
+“Ted,” he said again, “What in the name of god ...”
+
+“Colonel Krill ... he ...”
+
+“Colonel Krill?” he repeated. “Where is he?”
+
+I turned and started to point to the man laying on the floor but he was gone. I looked around but found only wreckage. The strange man was no where to be seen.
+
+“I ... “
+
+“The madness of Krill,” was all Sir Godfrey said. “I should have known that he spoke the truth. God save him.”
 
 ## CHAPTER 9
 ### A LITTLE TEA
@@ -1298,12 +1427,16 @@ Outside, the rain started again, coming in a diluge.
 
 I wished I could believe him but I didn’t know what was real any more.
 
-*Was Colonel Krill really a distant relation? Or a madman bent on destroying some unknown gods? And what had the Mobedan Mobed really wanted from me?*
+*Was Colonel Krill really a distant relation? Or a madman bent on destroying some unknown gods? And what of had the Mobedan Mobed?*
 
 I climbed out of his car and trudged up the steps but stopped at the door. It was closed. I just stared at it and let the rain soak through me.
 
 Then, the door flew open and there was Mother, in her morning frock and curlers.
 
-“Theodore Pyne! Why are you standing in the rain? You’ll catch your death. Come in. I’ve made tea. And there is someone to see you. A rather dapper gentleman, I must say,” she said with a twinkle as she bustled me in the door. “Come, Colonel Krill is waiting to speak to you.”
+“Theodore Pyne! Why are you standing in the rain? You’ll catch your death. Come in. I’ve made tea. You won’t believe the strange dream I had last night.”
+
+She bundled me into the dinnette and plunked me again into my usual seat. Then, as she flitted about the kitchen, pouring tea and dropping burnt toast onto a plate, she told me.
+
+“Those strange little creatures you used to pretend you saw? Remember? Well, I dreamt they came and took me away to a quaint old house in the country and served me tea. It was quite pleasant. Then, well, then I don’t remember but I awoke when I heard the car outside.”
 
 THE END
