@@ -3,7 +3,7 @@ subtitle: A Novelette of Dark Gods & Their Duplicity
 author: M. Boris
 draft: v3
 start_date: 09.28.20
-completion_date: 
+completion_date: 09.28.20 
 
 # CHAPTER 1
 ## PERIPHERAL VISION
